@@ -1,0 +1,1 @@
+# Registre externe (ancrage PKI/blockchain)

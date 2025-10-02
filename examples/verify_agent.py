@@ -1,0 +1,1 @@
+# Exemple de vérification
