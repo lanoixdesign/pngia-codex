@@ -462,10 +462,4 @@ if __name__ == "__main__":
 
 ---
 
-## tests/test_smoke.py
 
-```python
-# Placeholders pour futur PyTest
-
-def test_placeholder():
-    assert True
