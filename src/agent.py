@@ -39,7 +39,7 @@ def create_agent(img_path: str, out_path: str | None = None, key_id: str = "kid:
         else:
             out_path = img_path + ".pngia"
 
-    img.save(out_path)
+    img.save(out_path, format="PNG")
     _append_blob(out_path, TAG_AIDN, payload)
     return out_path
 

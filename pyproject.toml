@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pngia-codex"
+version = "0.0.1"
+dependencies = ["Pillow>=10.0", "numpy>=1.26"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = ["src"]
+
+[tool.pytest.ini_options]
+# (facultatif) ne tester que tests/ pour éviter que pytest collecte examples/
+testpaths = ["tests"]
