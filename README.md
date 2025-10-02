@@ -25,7 +25,7 @@ Objectif : fournir une base de code claire pour **créer**, **encapsuler** et **
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/<ton-user>/pngia-codex.git
+git clone https://github.com/lanoixdesign/pngia-codex.git
 cd pngia-codex
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
