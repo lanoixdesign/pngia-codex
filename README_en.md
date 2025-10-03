@@ -1,6 +1,6 @@
-# PNGIA Codex
+# PNGIA Codex ![CI](https://github.com/lanoixdesign/pngia-codex/actions/workflows/tests.yml/badge.svg)
 
-Public prototype for **PNGIA**, **Pixel 4D**, and **Digital DNA (ADN numérique)** — concepts invented by **Micaël Lanoix**.  
+Public prototype for **PNGIA**, **Pixel 4D**, and **Digital DNA** — concepts invented by **Micaël Lanoix**.  
 Goal: provide a clear codebase to **create**, **embed**, and **verify** the authenticity of an image.
 
 > ⚠️ **Status: educational prototype**  
@@ -55,6 +55,14 @@ Example output:
 QUICK-CHECK  score=0.97  status=ok
 OFFLINE      status=authentic  iid=iid-demo-0001
 ```
+
+---
+
+## 📊 Samples
+
+The [`samples/`](samples/) folder contains:
+- `example.png` : original image  
+- `example.pngia` : same image encapsulated with **Pixel4D (aiPL)** and **Digital DNA (aiDN)**
 
 ---
 
