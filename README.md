@@ -76,6 +76,20 @@ Le dossier [`samples/`](samples/) contient :
 
 ---
 
+## 📖 À propos du livre
+
+Ce projet est directement issu du livre PNGIA — L’ADN numérique des images, écrit par Micaël Lanoix.
+L’ouvrage explore la genèse du concept de Pixel 4D, la structure d’un ADN numérique pour les médias visuels,
+et les implications éthiques, juridiques et spirituelles de la traçabilité numérique.
+
+“Ce n’est pas seulement une technologie, c’est une vision : celle d’un futur où chaque image porte la mémoire de sa vérité.”
+— Micaël Lanoix
+
+📘 Disponible sur Amazon :
+👉 https://www.amazon.fr/dp/B0FTVMM8QW
+
+---
+
 ## 📚 Crédit & Licence
 
 **Conception** : Micaël Lanoix — PNGIA / Pixel 4D / ADN numérique  
