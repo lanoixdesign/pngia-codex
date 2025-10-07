@@ -88,6 +88,8 @@ et les implications éthiques, juridiques et spirituelles de la traçabilité nu
 📘 Disponible sur Amazon :
 👉 https://www.amazon.fr/dp/B0FTVMM8QW
 
+🔗 DOI of the technical report: [https://doi.org/10.5281/zenodo.17285510](https://doi.org/10.5281/zenodo.17285510)
+
 ---
 
 ## 📚 Crédit & Licence
